@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/frisk17/c/game_of_life/debug",
+  "command": "/usr/bin/cc  -I/home/frisk17/c/game_of_life/src -g -Wall -Werror -Wpedantic -o CMakeFiles/game_of_life.dir/main.c.o -c /home/frisk17/c/game_of_life/src/main.c",
+  "file": "/home/frisk17/c/game_of_life/src/main.c",
+  "output": "CMakeFiles/game_of_life.dir/main.c.o"
+},
+{
+  "directory": "/home/frisk17/c/game_of_life/debug",
+  "command": "/usr/bin/cc  -I/home/frisk17/c/game_of_life/src -g -Wall -Werror -Wpedantic -o CMakeFiles/game_of_life.dir/grid.c.o -c /home/frisk17/c/game_of_life/src/grid.c",
+  "file": "/home/frisk17/c/game_of_life/src/grid.c",
+  "output": "CMakeFiles/game_of_life.dir/grid.c.o"
+},
+{
+  "directory": "/home/frisk17/c/game_of_life/debug",
+  "command": "/usr/bin/cc  -I/home/frisk17/c/game_of_life/src -g -Wall -Werror -Wpedantic -o CMakeFiles/game_of_life.dir/life.c.o -c /home/frisk17/c/game_of_life/src/life.c",
+  "file": "/home/frisk17/c/game_of_life/src/life.c",
+  "output": "CMakeFiles/game_of_life.dir/life.c.o"
+}
+]

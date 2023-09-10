@@ -1,0 +1,3 @@
+/home/frisk17/c/game_of_life/debug/CMakeFiles/game_of_life.dir
+/home/frisk17/c/game_of_life/debug/CMakeFiles/edit_cache.dir
+/home/frisk17/c/game_of_life/debug/CMakeFiles/rebuild_cache.dir

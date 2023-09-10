@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.5)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+project(game_of_life LANGUAGES C)
+add_executable(game_of_life main.c grid.c life.c)
+target_include_directories(game_of_life PRIVATE ${CMAKE_SOURCE_DIR})
+target_compile_options(game_of_life PRIVATE -Wall -Werror -Wpedantic)
+target_link_libraries(game_of_life m)
